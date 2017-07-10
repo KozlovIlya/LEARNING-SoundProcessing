@@ -1,5 +1,5 @@
 # Sound processing
-![](C:\Users\ilya1\Desktop\sound.png)
+![](http://www.ducksters.com/science/sound.png)
 ## Полезные ссылки
 ### Библиотеки
 * [VST.NET](https://vstnet.codeplex.com/) - позволяет писать VST пагины на .NET языках. *(C#/C++/VB)*
