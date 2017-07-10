@@ -5,4 +5,5 @@
 * [VST.NET](https://vstnet.codeplex.com/) - позволяет писать VST пагины на .NET языках. *(C#/C++/VB)*
 * [Processing 3.0+](https://processing.org) - библиотека, включающая в себя классы для работы со звуком (осциляторы, эфекты и тд.)*(JavaScript)*
 ### Статьи
-* [Статьи Ивана Ларцева на GitHub](https://habrahabr.ru/users/lis355/topics/) - хорошии статьи для начинающих по разработки VST - плагинов.*(C#)*
+* [Статьи Ивана Ларцева на GitHub](https://habrahabr.ru/users/lis355/topics/) - хорошии статьи для начинающих по разработки VST - плагинов. *(C#)*
+* [Практическая теория звука от Яндекс](https://habrahabr.ru/company/yandex/blog/270765/) - основное, что нужно знать по теории звука.
