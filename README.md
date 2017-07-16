@@ -2,8 +2,8 @@
 ![](http://www.ducksters.com/science/sound.png)
 ## Полезные ссылки
 ### Библиотеки
-* [Steinberg SDK](https://www.steinberg.net/en/company/developers.html) - базовые библиотеки для создания VST плагинов. (МАСТХЭВ)
-* [VST.NET](https://vstnet.codeplex.com/) - позволяет писать VST пагины на .NET языках. *(C#/C++/VB)*
+* [Steinberg SDK](https://www.steinberg.net/en/company/developers.html) - базовая технология создания VST плагинов с колоссальным количеством возможностей, но использование которой проходит на очень низком уровне.
+* [VST.NET](https://vstnet.codeplex.com/) - обертка для Steinberg SDK для .NET языков. *(C#/C++/VB)*
 * [Processing 3.0+](https://processing.org) - библиотека, включающая в себя классы для работы со звуком (осциляторы, эфекты и тд.)*(JavaScript)*
 * [Web Audio API](https://www.w3.org/TR/webaudio/) - большая библиотека по обработке звука на низком уровне (не понял где скачать)*(JavaSctipt)*
 ### Статьи
