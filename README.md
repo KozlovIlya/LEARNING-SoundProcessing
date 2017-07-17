@@ -3,6 +3,8 @@
 ## Полезные ссылки
 ### Библиотеки
 * [Steinberg SDK](https://www.steinberg.net/en/company/developers.html) - базовая технология создания VST плагинов с колоссальным количеством возможностей, но использование которой проходит на очень низком уровне.
+* [WDL-OL](https://github.com/olilarkin/wdl-ol) - обертка Steinberg SDK для упрощенной работы и компиляции VST-плагина в разных форматах.
+Кстати [вот перевод туториала на русский](https://habrahabr.ru/post/224911).
 * [VST.NET](https://vstnet.codeplex.com/) - обертка для Steinberg SDK для .NET языков. *(C#/C++/VB)*
 * [Processing 3.0+](https://processing.org) - библиотека, включающая в себя классы для работы со звуком (осциляторы, эфекты и тд.)*(JavaScript)*
 * [Web Audio API](https://www.w3.org/TR/webaudio/) - большая библиотека по обработке звука на низком уровне (не понял где скачать)*(JavaSctipt)*
