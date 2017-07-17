@@ -10,4 +10,4 @@
 ### Статьи
 * [Статьи Ивана Ларцева на GitHub](https://habrahabr.ru/users/lis355/topics/) - хорошии статьи для начинающих по разработки VST - плагинов. *(C#)*
 * [Практическая теория звука от Яндекс](https://habrahabr.ru/company/yandex/blog/270765/) - основное, что нужно знать по теории звука.
-* [Перевод документации по WDL - OL](https://habrahabr.ru/post/224911)
+* [Туториал по созданию плагинов в 16-ти частях](https://habrahabr.ru/users/1eqinfinity/topics)
